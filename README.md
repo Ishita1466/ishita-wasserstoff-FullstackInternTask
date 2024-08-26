@@ -47,7 +47,7 @@ Welcome to the Weather Forecast App project! This application allows users to ch
 2. Navigate to the directory:
 
    ```bash
-   cd weather-forecast-dashboard
+   cd weather-forecast-app
    ```
 
 3. Install dependencies:
